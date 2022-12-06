@@ -28,6 +28,13 @@ h3 {
 
 a {
   color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a.hover{
+  color: #EAF6F6;
 }
 
 hr {
@@ -39,7 +46,7 @@ hr {
   border-color: #EAF6F6;
 }
 
-p{
+p {
   line-height: 2;
 }
 
@@ -78,12 +85,11 @@ p{
 
 .solo {
   color: #EAF6F6;
+  font-size: 0.75rem;
 }
 
 .footer-link {
-  text-decoration: none;
   display: inline-block;
-  width: 10%;
 }
 
 .cloud-bottom {
@@ -106,7 +112,6 @@ p{
   width: 50%;
   margin: 100px auto 100px auto;
   text-align: left;
-
 }
 
 .computer {
@@ -121,12 +126,12 @@ p{
   margin-left: 30px;
 }
 
-.Hello{
+.Hello {
   width: 30%;
   margin: auto;
 }
 
-.contact_msg{
+.contact_msg {
   width: 50%;
   margin: 40px auto 40px auto;
 }

@@ -150,3 +150,8 @@ left: 200px;
   width: 30%;
   margin: auto;
 }
+
+.contact_msg{
+  width: 50%;
+  margin: 40px auto 40px auto;
+}
